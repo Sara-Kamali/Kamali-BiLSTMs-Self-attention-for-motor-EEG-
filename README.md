@@ -37,7 +37,16 @@ Detailed EEG pre-processing procedures are available in the companion repository
 
 ---
 
-## 4. Reference
+
+## 4. Additional material
+
+| File | Description |
+|------|-------------|
+| `IWANN2025_Presentation_Kamali_etal.pdf` | Slide deck used for the IWANN 2025 conference presentation |
+
+---
+
+## 5. Reference
 
 > Kamali S., Baroni F., & Varona P. (2025).  
 > *Self-attentive Bidirectional LSTM Networks for Temporal Decoding of EEG Motor States.*

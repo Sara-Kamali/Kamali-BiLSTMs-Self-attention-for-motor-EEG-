@@ -48,6 +48,6 @@ Detailed EEG pre-processing procedures are available in the companion repository
 
 ## 5. Reference
 
-> Kamali S., Baroni F., & Varona P. (2025).  
+> Kamali S., Baroni F., & Varona P. (2025).  IWANN Conference
 > *Self-attentive Bidirectional LSTM Networks for Temporal Decoding of EEG Motor States.*
 
